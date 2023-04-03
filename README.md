@@ -1,6 +1,4 @@
-# Rust
+# Rust - Learning Resource Example Code
 
-Learning Resource Example Code
-
-Programming Rust - 2nd Edition
+### Programming Rust - 2nd Edition
 - [Greatest Common Divisor](./gcd)
