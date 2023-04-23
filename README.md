@@ -4,3 +4,4 @@
 - [Greatest Common Divisor](./gcd)
 - [Greatest Common Divisor - Web Server](./actix-gcd)
 - [Mandelbrot](./mandelbrot)
+- [Quick Replace](./quickreplace)
